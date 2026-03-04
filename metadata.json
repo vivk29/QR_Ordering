@@ -1,0 +1,7 @@
+{
+  "name": "QuickServe QR",
+  "description": "A mobile-first restaurant QR ordering system with real-time tracking and admin dashboard.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
